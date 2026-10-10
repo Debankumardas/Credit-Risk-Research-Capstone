@@ -1,0 +1,49 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+
+.env
+.env.*
+!.env.example
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Local datasets and temporary data
+
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Generated results
+
+outputs/figures/*
+outputs/results/*
+
+# Preserve folder structure
+
+!outputs/figures/.gitkeep
+!outputs/results/.gitkeep
+
+# Temporary files
+
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Editor
+
+.vscode/
