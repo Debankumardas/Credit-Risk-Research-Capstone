@@ -1,0 +1,15 @@
+{
+    "model": "Logistic Regression",
+    "random_state": 42,
+    "test_size": 0.2,
+    "train_rows": 24000,
+    "test_rows": 6000,
+    "threshold": 0.5,
+    "roc_auc": 0.7100336377377392,
+    "pr_auc_average_precision": 0.4947767802158587,
+    "accuracy": 0.8088333333333333,
+    "precision": 0.6923076923076923,
+    "recall": 0.24415975885455915,
+    "f1_score": 0.36100278551532033,
+    "brier_score": 0.14659775276636214
+}

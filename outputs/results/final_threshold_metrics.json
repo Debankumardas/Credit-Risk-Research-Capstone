@@ -1,0 +1,18 @@
+{
+  "threshold": 0.25,
+  "accuracy": 0.792,
+  "precision": 0.5264567983924984,
+  "recall": 0.5923134890730972,
+  "f1": 0.5574468085106383,
+  "true_negatives": 3966,
+  "false_positives": 707,
+  "false_negatives": 541,
+  "true_positives": 786,
+  "model": "Gradient Boosting",
+  "final_test_rows": 6000,
+  "final_test_default_rate": 0.22116666666666668,
+  "roc_auc": 0.782252694736119,
+  "average_precision": 0.5539082312731862,
+  "threshold_selected_on_validation": 0.25,
+  "validation_f1_at_selected_threshold": 0.5406976744186046
+}

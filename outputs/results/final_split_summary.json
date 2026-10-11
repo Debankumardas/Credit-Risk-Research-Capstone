@@ -1,0 +1,11 @@
+{
+  "random_state": 2026,
+  "total_rows": 30000,
+  "training_rows": 18000,
+  "validation_rows": 6000,
+  "final_test_rows": 6000,
+  "training_default_rate": 0.2212222222222222,
+  "validation_default_rate": 0.22116666666666668,
+  "final_test_default_rate": 0.22116666666666668,
+  "note": "This is a new holdout split, but earlier exploratory work used other splits of the same dataset. It is not a completely unseen external dataset."
+}

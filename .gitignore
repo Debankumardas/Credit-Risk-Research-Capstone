@@ -32,10 +32,17 @@ data/processed/*
 outputs/figures/*
 outputs/results/*
 
+# Track research figures and results
+
+!outputs/figures/*.png
+!outputs/results/*.csv
+!outputs/results/*.json
+
 # Preserve folder structure
 
 !outputs/figures/.gitkeep
 !outputs/results/.gitkeep
+
 
 # Temporary files
 

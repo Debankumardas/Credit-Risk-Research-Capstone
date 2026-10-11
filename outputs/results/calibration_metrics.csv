@@ -1,0 +1,4 @@
+model,brier_score,log_loss,test_rows,calibration_bins,bin_strategy
+Logistic Regression,0.14659775276636214,0.47039535789841025,6000,10,quantile
+Random Forest,0.13993622870369013,0.4436268963256839,6000,10,quantile
+Gradient Boosting,0.13607767008594293,0.4339334941561098,6000,10,quantile
